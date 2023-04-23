@@ -1,5 +1,5 @@
 # dnd
-
+![CI](https://github.com/nikulin68/dnd/actions/workflows/web.yml/badge.svg)
 [![Build status](https://ci.appveyor.com/api/projects/status/crvweg136re5cl7s/branch/main?svg=true)](https://ci.appveyor.com/project/nikulin68/dnd/branch/main)
 
 Домашнее задание к занятию "6. Работа с файлами, DnD"
